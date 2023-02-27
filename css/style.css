@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.flex_wolf{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar_list{
+    list-style: none;
+}
+
+body{
+font-family: 'Open Sans', sans-serif
+}
+
+.navbar_list a{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+    padding-left: 30px;
+    text-decoration: none;
+}
+
+.navbar h1{
+    font-size: 36px;
+}
+
+.navbar button{
+    width: 160px;
+    height: 40px;
+    font-weight: 700;
+font-size: 15px;
+line-height: 24px;
+color: #FFFFFF;
+background: #00BAFC;
+border-radius: 5px;
+border: none;
+}
+
+.header h2{
+    width: 470px;
+    height: 80px;
+    font-weight: 700;
+font-size: 30px;
+line-height: 130%;
+color: #000000;
+margin-bottom: 15px;
+}
+
+.header p{
+    width: 465px;
+    height: 74px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+}
+
+.header button{
+    width: 232px;
+    height: 40px;
+    background: #00BAFC;
+border-radius: 5px;
+border: none;
+}
+
+.header{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.section{
+    display: flex;
+    align-items: baseline ;
+}
+.Xizmatlar{
+    display: flex;
+}
+.section button{
+     width: 232px;
+    height: 40px;
+     background:#00BAFC ;
+     border-radius: 5px;
+    border: none; 
+}
+
+
+
+
